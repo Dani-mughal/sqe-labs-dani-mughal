@@ -1,2 +1,2 @@
-# sqe-labs-dani-mughal
-this is for SQE Lab
+# sqe-labs-sulmanfarooqq
+Software Quality Engineering Lab
